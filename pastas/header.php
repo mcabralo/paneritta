@@ -2,7 +2,7 @@
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo mr-auto"><a href="index.php">VIENA PERSONALIZADOS</a></h1>
+      <h1 class="logo mr-auto"><a href="index.php">Paneritta</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -30,7 +30,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li> -->
-          <li><a href="https://api.whatsapp.com/send?phone=5511989788839">Fale Conosco</a></li>
+          <li><a href="https://api.whatsapp.com/send?phone=5571999486598">Fale Conosco</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->

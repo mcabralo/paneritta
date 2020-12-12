@@ -20,7 +20,7 @@
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>vienapersonalizados@gmail.com</p>
+                <p>paneritta@gmail.com</p>
               </div>
 
               <div class="phone">

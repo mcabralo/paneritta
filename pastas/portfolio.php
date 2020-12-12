@@ -19,7 +19,7 @@
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Viena Personalizados com Colher</h4>
+          <h4>Paneritta com Colher</h4>
           <p>Xícara com colher</p>
           <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
           <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
