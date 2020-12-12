@@ -54,8 +54,8 @@
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-coffee"></i></div>
-              <h4><a href="">Panetone Pequeno</a></h4>
-              <p>R$ 6,50</p>
+              <h4><a href="">Calabresa Grande</a></h4>
+              <p>R$ 15,00</p>
             </div>
           </div>
 <!-- 
