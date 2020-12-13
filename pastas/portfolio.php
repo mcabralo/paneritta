@@ -111,6 +111,36 @@
         </div>
       </div>
 
+      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-10.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-info">
+          <h4>Amor</h4>
+          <p>E nessa estrada da vida, que sejas sempre meu amor</p>
+          <a href="assets/img/portfolio/portfolio-10.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+          <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-11.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-info">
+          <h4>Amor</h4>
+          <p>E nessa estrada da vida, que sejas sempre meu amor</p>
+          <a href="assets/img/portfolio/portfolio-11.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+          <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-12.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-info">
+          <h4>Amor</h4>
+          <p>E nessa estrada da vida, que sejas sempre meu amor</p>
+          <a href="assets/img/portfolio/portfolio-12.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+          <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+        </div>
+      </div>
+
     </div>
 
   </div>

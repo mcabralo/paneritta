@@ -25,11 +25,11 @@
           A108 Adam Street <br>
           New York, NY 535022<br>
           United States <br><br> -->
-          <strong>Telefone:</strong> +55 11 98978-8839<br>
+          <strong>Telefone:</strong> +55 (71) 99948-6598<br>
           <strong>Email:</strong> paneritta@gmail.com<br>
           <div class="social-links mt-3">
-            <a href="https://www.facebook.com/vienapersonalizados" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="https://www.instagram.com/_vienapersonalizados/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="https://www.facebook.com/paneritta" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+            <a href="https://www.instagram.com/paneritta/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
             <a href="https://api.whatsapp.com/send?phone=5571999486598" target="_blank" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
           </div>
           </p>
