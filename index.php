@@ -50,7 +50,7 @@
   <?php require_once('pastas/services.php');?>
   <?php require_once('pastas/cta.php');?>
   <?php require_once('pastas/portfolio.php');?>
-  <?php require_once('pastas/team.php');?>
+  <?php // require_once('pastas/team.php');?>
   <?php //require_once('pastas/pricing.php');?>
   <?php //require_once('pastas/faq.php');?>
   <?php require_once('pastas/contact.php');?>

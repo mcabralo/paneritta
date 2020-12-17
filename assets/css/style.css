@@ -423,7 +423,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #f58e91;
+  background: #c4505d;
+  /* background: #f58e91; */
 }
 
 #hero .btn-watch-video {
@@ -545,6 +546,16 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 20px;
+  position: relative;
+  color: #f58e91;
+}
+
+.section-title h3 {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: -10px;
+  padding-bottom: -10px;
   position: relative;
   color: #f58e91;
 }

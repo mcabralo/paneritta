@@ -35,16 +35,16 @@
           </p>
         </div>
 
-        <div class="col-lg-4 col-md-6 footer-links">
+        <!-- <div class="col-lg-4 col-md-6 footer-links">
           <h4>Links Úteis</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Página Inicial</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Sobre Nós</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php">Página Inicial</a></li> -->
+            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Sobre Nós</a></li> -->
             <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li> -->
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Termos de Serviços</a></li>
+            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Termos de Serviços</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="#">Política de Privacidade</a></li>
           </ul>
-        </div>
+        </div> -->
 
         <!-- <div class="col-lg-2 col-md-6 footer-links">
           <h4>Our Services</h4>
@@ -75,14 +75,14 @@
 
   <div class="container footer-bottom clearfix">
     <div class="copyright">
-      &copy; Copyright <strong><span>Paneritta</span></strong>. Todos os direitos reservados
+      &copy; Copyright to <strong><span>Paneritta</span></strong>. Todos os direitos reservados
     </div>
     <div class="credits">
       <!-- All the links in the footer should remain intact. -->
       <!-- You can delete the links only if you purchased the pro version. -->
       <!-- Licensing information: https://bootstrapmade.com/license/ -->
       <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-      Feito por <a href="https://www.instagram.com/mcabralo/">Matheus Cabral</a>
+      Feito por <a href="https://www.linkedin.com/in/matheus-cabral-16a8b7120/">Matheus Cabral</a>
     </div>
   </div>
 </footer><!-- End Footer -->

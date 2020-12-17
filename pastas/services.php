@@ -4,7 +4,7 @@
 
         <div class="section-title">
           <h2>PREÇOS</h2>
-          <p>Tradicionais (Panetone e Chocotone)</p>
+          <h3>Tradicionais</h3>
         </div>
 
         <div class="row">
@@ -47,7 +47,7 @@
 
         <div class="section-title">
           <h2></h2>
-          <p>Salgados:</p>
+          <h3>Salgados:</h3>
         </div>
 
         <div class="row">
@@ -55,7 +55,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-coffee"></i></div>
               <h4><a href="">Calabresa Grande</a></h4>
-              <p>R$ 15,00</p>
+              <p>R$ 22,00</p>
             </div>
           </div>
 <!-- 
